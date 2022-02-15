@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yongxu Duan"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Geomatics Engineering education background, interested in GNSS/INS technology"
   location         : "Shanghai,China"
   employer         : 
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: False
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: False
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: False
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: False
+    output: true
     permalink: /:collection/:path/
 
 
@@ -215,35 +215,35 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: False
-      share: False
-      comments: False
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: False
-      share: False
-      comments: False
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: False
-      share: False
-      comment: False
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: False
-      share: False
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
