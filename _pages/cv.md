@@ -14,11 +14,11 @@ Education
 * M.S. in Geomatics Engineering, University of Stuttgart, 2017.09-2020.02
   * GPA: 2.1/1.0 (good)
   * Main courses: Satellite Navigation, Integrated Positioning and Navigation, Computer Vision, Pattern Recognition, Remote Sensing, Dynamic System     Estimationetc, Statistical Inference, Transport Telematics, etc.
-  * More info can be found in [the guide](https://www.geoengine.uni-stuttgart.de/).
+  * More info can be found [here](https://www.geoengine.uni-stuttgart.de/).
 * B.S. in Geomatics Engineering, China University of Mining and Technology (Beijing), 2013.09-2017.07
   * GPA: 82/100 (good)
   * Main courses: Satellite Navigation and Positioning, Cartography, Photogrametry,  Engineering Surveying, Remote Sensing, Geoinformation,etc.
-  * More info can be found in [the guide](https://dcxy.cumtb.edu.cn/).
+  * More info can be found [here](https://dcxy.cumtb.edu.cn/).
   
 Work experience
 ======
@@ -42,7 +42,7 @@ Research experience
           4) Generate 2D and 3D Allan Deviation by MATLAB, calculate the Bias Instability and Random Walk
           5) Analyze the effects of temperature on the sensor. 
           6) Build up polynomial temperature compensation for the data.
-  * More info please check: https://github.com/dyx1994/Temperature-denpendency-of-a-low-cost-IMU
+  * More info please check [here](https://github.com/dyx1994/Temperature-denpendency-of-a-low-cost-IMU). 
 
 * 2018.12-2019.02: Development of a Modular Multi-Sensor System
   * Organization: Institute for Engineering Geodesy, University of Stuttgart
