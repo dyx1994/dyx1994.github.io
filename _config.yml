@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yongxu Duan"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "Geomatics Engineering education background, interested in GNSS/INS technology"
   location         : "Shanghai,China"
   employer         : 
@@ -233,9 +233,9 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: False
+      share: False
+      comment: False
   # _talks
   - scope:
       path: ""
