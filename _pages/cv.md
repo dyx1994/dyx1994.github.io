@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,23 +24,23 @@ Work experience
 ======
 * 2021.10-present: Geomatics Project Engineer
   * Company: Shanghai Investigation, Design & Research Institute Co., Ltd.
-  * Project: (1) HD map collection for Nanning Wuxu International Airport. (2) Beidou development plan inside China Three Gorges Corporation
-  * Duties included: (1) Project management for sub-contractors (2) On-site technical support (3) Customer relation mantainance (4) Plan editting 
+  * Project: (1) HD map collection for Nanning Wuxu International Airport. (2) Beidou development plan inside China Three Gorges Corporation.
+  * Duties included: (1) Project management for sub-contractors. (2) On-site technical support. (3) Customer relation mantainance. (4) Plan editting
 
 * 2020.09-2021.09: System Engineer
   * Company: Space Star Technology Co., Ltd.
   * Project: Confidential
-  * Duties included: (1) Satellite ground segment design, test and integration. (2) Crtical design for satellite control center (3) Software test           report editting (4) Abroad customer remote technical support (5) Remote software deployment
+  * Duties included: (1) Satellite ground segment design, test and integration. (2) Crtical design for satellite control center. (3) Software test           report editting. (4) Abroad customer remote technical support. (5) Remote software deployment.
 
 Research experience
 ======
 * 2019.08-2020.02: Master thesis: Temperature Dependency of a low-cost IMU
   * Organization: Institute for Navigation, University of Stuttgart
-  * Work: (1) Developed a Python driver for MPU9250 to collect data from FIFO register via I2C protocol\n
-          (2) Connect MPU-9250 with Raspberry Pi and control the sensor via Linux command\n
-          (3) Collect static data from 3-axis accelerometer and 3-axis gyroscope under different temperature points and also a cooling down process\n
-          (4) Generate 2D and 3D Allan Deviation by MATLAB, calculate the Bias Instability and Random Walk\n
-          (5) Analyze the effects of temperature on the sensor. \n
+  * Work: (1) Developed a Python driver for MPU9250 to collect data from FIFO register via I2C protocol.
+          (2) Connect MPU-9250 with Raspberry Pi and control the sensor via Linux command.
+          (3) Collect static data from 3-axis accelerometer and 3-axis gyroscope under different temperature points and also a cooling down process.
+          (4) Generate 2D and 3D Allan Deviation by MATLAB, calculate the Bias Instability and Random Walk.
+          (5) Analyze the effects of temperature on the sensor.
           (6) Build up polynomial temperature compensation for the data.
   * More info please check [here](https://github.com/dyx1994/Temperature-denpendency-of-a-low-cost-IMU). 
 
