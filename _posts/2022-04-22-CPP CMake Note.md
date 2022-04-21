@@ -56,13 +56,13 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 ### Specify the installation location of the object file:
 
-1. Linux command (recommended)
+ - Linux command (recommended)
   
 ```bash
 cmake -DCMAKE_INSTALL_PREFIX=[Install path]
 ```
 
-2. Set variables in `CMakeLists.txt`
+- Set variables in `CMakeLists.txt`
 
 ```bash
 set(CMAKE_INSTALL_PREFIX [install path])
