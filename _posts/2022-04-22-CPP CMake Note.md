@@ -54,6 +54,28 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 ```
 
+### Adding a library
+
+Basiclly, functions are contained in **src**, it's better to create a CMakeLists.txt in **src** file. In the **src/CMakeLists.txt**, we can create a library.
+
+```bash
+add_library(functions sum.cpp subtract.cpp)
+```
+
+In the root path's CMakeLists.txt
+
+```bash
+        # tell cmake where to find header file *.hpp *.h
+        include_directories(include/)
+        # add the library path 
+        add_subdirectory(src)
+        # add the executable 
+        add_executable(main main.cpp)
+        # link lib and main
+        target_link_libraries(main functions)
+
+```
+
 ### Specify the installation location of the object file:
 
  - Linux command (recommended)
@@ -66,4 +88,29 @@ cmake -DCMAKE_INSTALL_PREFIX=[Install path]
 
 ```bash
 set(CMAKE_INSTALL_PREFIX [install path])
+```
+
+### Installation 
+
+`CMakeLists.txt` 
+
+```bash
+        # install executable file to install file
+        install(TARGETS main DESTINATION bin)
+        install(DIRECTORY ${CMAKE_SOURCE_DIR}/include DESTINATION include)
+```
+
+`src/CMakeLists.txt`
+
+```bash
+        install(TARGETS ipb_arithmetic DESTINATION lib) 
+```
+
+Rebuild the program and make installation:
+
+```bash
+        cd build/
+        cmake ..
+        make
+        make install ..
 ```
