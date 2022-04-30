@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="../files/Yongxu's Resume.pdf" width="850" height="600">
+
 Education
 ======
 * M.S. in Geomatics Engineering, University of Stuttgart, 2017.09-2020.02
