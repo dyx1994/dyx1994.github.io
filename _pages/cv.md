@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-
-======
+## Education
 
 * M.S. in Geomatics Engineering, University of Stuttgart, 2017.09-2020.02
   * GPA: 2.1/1.0 (good)
@@ -22,9 +20,7 @@ Education
   * Main courses: Satellite Navigation and Positioning, Cartography, Photogrametry,  Engineering Surveying, Remote Sensing, Geoinformation,etc.
   * More info can be found [here](https://dcxy.cumtb.edu.cn/).
   
-Work experience
-
-======
+## Work experience
 
 * 2021.10-present: Geomatics Project Engineer
   * Company: Shanghai Investigation, Design & Research Institute Co., Ltd.
@@ -36,9 +32,7 @@ Work experience
   * Project: Confidential
   * Duties included: (1) Satellite ground segment design, test and integration. (2) Crtical design for satellite control center. (3) Software test           report editting. (4) Abroad customer remote technical support. (5) Remote software deployment.
 
-Research experience
-
-======
+## Research experience
 
 * 2019.08-2020.02: Master thesis: Temperature Dependency of a low-cost IMU
   * Organization: Institute for Navigation, University of Stuttgart
@@ -62,9 +56,7 @@ Research experience
   * Organization: Institute for Engineering Geodesy, University of Stuttgart
   * Work: 3D Modelling of the Hülben Aerodrome Hangar and Landing Strip Survey.Plan the route of surveying vans, responsible for GNSS static observation network design, GNSS data collection and post processing, final presentation. 
 
-Skills
-
-======
+## Skills
 
 * Computer Skills
   * Programming language: Python, MATLAB, C/C++
@@ -76,24 +68,18 @@ Skills
   * English (business fluent)
   * German (B1-level)
 
-Awards
-
-======
+## Awards
 
 * Scholarship of China University of  Mining and Technology (Beijing) 2015
   
-Interests
-
-======
+## Interests
 
 * Basketball, Football, Thai-Chi, Hiking, Running(2019 Stuttgart City half-marathon), History, Traveling, Photography
   
-Personality
-
-======
+## Personality
 
 * Initiative, creative, independent, comunicative and strong team spirit
 
-@import "../files/Yongxu's Resume.pdf" {width="850" height="600}
+## Resume
 
-<embed src="../files/Yongxu's Resume.pdf" width="850" height="600">
+<embed src="../files/Yongxu's Resume.pdf" width="850" height="1000">
