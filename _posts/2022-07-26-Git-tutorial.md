@@ -30,6 +30,14 @@ Push the version to origin:
 git push origin
 ```
 
+Quik command to get back to last version:
+
+```bash
+git reset --hard HEAD^
+```
+
+PS: **HEAD** points to the current source version, **HEAD^** points to last version, **HEAD^^** points to the version before last one.
+
 ## Delete git repository
 
 当不需要git跟踪时,找出隐藏的.git文件删除即可
