@@ -8,9 +8,6 @@ date: 2020-02-01
   
 * Presentation [Download here](https://github.com/dyx1994/Temperature-dependency-of-a-low-cost-IMU/blob/main/Doc/MasterThesis_Duan.pdf)
 
-<object data="https://github.com/dyx1994/Temperature-dependency-of-a-low-cost-IMU/blob/main/Doc/MasterThesis_Duan.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/dyx1994/Temperature-dependency-of-a-low-cost-IMU/blob/main/Doc/MasterThesis_Duan.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="https://github.com/dyx1994/Temperature-dependency-of-a-low-cost-IMU/blob/main/Doc/MasterThesis_Duan.pdf">Download PDF</a>.</p>
-    </embed>
+<object height="700" width="950" border="0" data="../files/MasterThesis_Duan.pdf" type="application/pdf">
+    <embed src="../files/MasterThesis_Duan.pdf" type="application/pdf" width=800 height=800 />
 </object>
