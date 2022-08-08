@@ -11,4 +11,4 @@ After create the virtual environment, open a new terminal, there will be an **ve
 
 <img src='/images/2022-08-05 17-14-59.png'>
 
-<img src='images/2022-08-05 17-16-55.png'>
+<img src='/images/2022-08-05 17-16-55.png'>
